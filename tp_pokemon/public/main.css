@@ -1,0 +1,11 @@
+.taille_img_detail{
+    width: 300;
+    height: 300;
+}
+.taille_img_home{
+    width: 200;
+    height: 200;
+}
+.taille_police{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
